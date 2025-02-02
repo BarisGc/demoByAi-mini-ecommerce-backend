@@ -1,0 +1,12 @@
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\bin\Debug\net9.0\DemoBackend.Domain.deps.json
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\bin\Debug\net9.0\DemoBackend.Domain.dll
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\bin\Debug\net9.0\DemoBackend.Domain.pdb
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.AssemblyInfo.cs
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.sourcelink.json
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.dll
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\refint\DemoBackend.Domain.dll
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\DemoBackend.Domain.pdb
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Domain\obj\Debug\net9.0\ref\DemoBackend.Domain.dll

@@ -1,0 +1,6 @@
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Infrastructure\obj\Debug\net9.0\DemoBackend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Infrastructure\obj\Debug\net9.0\DemoBackend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Infrastructure\obj\Debug\net9.0\DemoBackend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Infrastructure\obj\Debug\net9.0\DemoBackend.Infrastructure.AssemblyInfo.cs
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Infrastructure\obj\Debug\net9.0\DemoBackend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\baris\2024_software_self_taught\pempati-2024-winter\demo\withCursor-demo-mini-ecommerce\Backend\src\DemoBackend.Infrastructure\obj\Debug\net9.0\DemoBackend.Infrastructure.sourcelink.json
