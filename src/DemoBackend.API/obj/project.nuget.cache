@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "qZ+7UKTmDrU=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\baris\\2024_software_self_taught\\pempati-2024-winter\\demo\\withCursor-demo-mini-ecommerce\\Backend\\src\\DemoBackend.API\\DemoBackend.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baris\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.1\\microsoft.entityframeworkcore.analyzers.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.1\\microsoft.entityframeworkcore.relational.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.1\\microsoft.extensions.caching.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.1\\microsoft.extensions.caching.memory.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.logging\\9.0.1\\microsoft.extensions.logging.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
+    "C:\\Users\\baris\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.3\\npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for MediatR. Install/reference MediatR 12.4.1 directly to project DemoBackend.API to resolve this issue. \r\n DemoBackend.API -> DemoBackend.Application -> MediatR (>= 12.4.1) \r\n DemoBackend.API -> MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 -> MediatR (>= 11.0.0 && < 12.0.0).",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
